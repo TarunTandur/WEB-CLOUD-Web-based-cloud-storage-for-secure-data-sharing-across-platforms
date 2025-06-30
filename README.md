@@ -74,9 +74,9 @@ font-weight: bold;
 
 <a href="#"><img src="https://www.jaxtr.com/wp-content/uploads/2020/06/cloud-1024x752.jpg" width="960" height="360" alt="" /></a> 
 
-<a href="#"><img src="[images/slide2.jpg]https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/k-p-289.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=200eaa6b01d296343c51c511bb87a8e8" width="960" height="360" alt="" /></a>
+<a href="#"><img src="https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/k-p-289.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=200eaa6b01d296343c51c511bb87a8e8" width="960" height="360" alt="" /></a>
 
-<a href="#"><img src="images/slide3.jpg/https://wallpapercave.com/wp/wp3929824.jpg" width="960" height="360" alt="" /></a>
+<a href="#"><img src="https://wallpapercave.com/wp/wp3929824.jpg" width="960" height="360" alt="" /></a>
 
 </div>
 
