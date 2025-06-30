@@ -102,7 +102,7 @@ font-weight: bold;
 
 <p class="infopost">&nbsp;</p>
 
-<div class="img"><img src="images/img1.jpg/https://img.freepik.com/premium-vector/technology-abstract-welcome-banner-background-website-landing-page-template-design_633079-73.jpg?w=996" width="218" height="350" alt="" class="fl"/></div>
+<div class="img"><img src="https://tse1.mm.bing.net/th/id/OIP.V8TqViVJk9GCOCj6owLkygHaE7?rs=1&pid=ImgDetMain&o=7&rm=3" width="218" height="350" alt="" class="fl"/></div>
 
 <div class="post_content">
 
