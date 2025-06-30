@@ -60,7 +60,7 @@ font-weight: bold;
 
 <li class="active"><a href="https://th.bing.com/th/id/OIP.RJCImwMq7ynpf_dECSWlDQHaE7?w=273&h=182&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3"><span>DATA OWNER</span></a></li>
 
-<li class="active"><a href="DO_Login.jsp">Logout</a></li>
+<li class="active"><a href="https://img.freepik.com/premium-vector/concept-website-page-log-cloud_172533-72.jpg?w=2000">Logout</a></li>
 
 </ul>
 
@@ -72,11 +72,11 @@ font-weight: bold;
 
 <div id="coin-slider">
 
-<a href="#"><img src="images/slide1.jpg" width="960" height="360" alt="" /></a> 
+<a href="#"><img src="https://www.jaxtr.com/wp-content/uploads/2020/06/cloud-1024x752.jpg" width="960" height="360" alt="" /></a> 
 
-<a href="#"><img src="images/slide2.jpg" width="960" height="360" alt="" /></a>
+<a href="#"><img src="[images/slide2.jpg]https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/k-p-289.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=200eaa6b01d296343c51c511bb87a8e8" width="960" height="360" alt="" /></a>
 
-<a href="#"><img src="images/slide3.jpg" width="960" height="360" alt="" /></a>
+<a href="#"><img src="images/slide3.jpg/https://wallpapercave.com/wp/wp3929824.jpg" width="960" height="360" alt="" /></a>
 
 </div>
 
@@ -102,7 +102,7 @@ font-weight: bold;
 
 <p class="infopost">&nbsp;</p>
 
-<div class="img"><img src="images/img1.jpg" width="218" height="350" alt="" class="fl"/></div>
+<div class="img"><img src="images/img1.jpg/https://img.freepik.com/premium-vector/technology-abstract-welcome-banner-background-website-landing-page-template-design_633079-73.jpg?w=996" width="218" height="350" alt="" class="fl"/></div>
 
 <div class="post_content">
 
@@ -126,21 +126,21 @@ font-weight: bold;
 
 <ul class="sb_menu style3">
 
-<li><a href="DO_Main.jsp">Home</a></li>
+<li><a href="https://cdn2.vectorstock.com/i/1000x1000/52/56/cloud-data-storage-web-page-template-vector-21685256.jpg">Home</a></li>
 
-<li><a href="DO_Attackers.jsp">Attackers</a></li>
+<li><a href="https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/67012055930/original/EhrQouaeK_B5NjFUAA1p8nAgMwfdcj6ksg.png?1620757716">Attackers</a></li>
 
-<li><a href="DO_Upload.jsp">Upload File</a></li>
+<li><a href="https://tse3.mm.bing.net/th/id/OIP.yfNAFixHwGX3xXjv54PIFwHaFj?w=840&h=630&rs=1&pid=ImgDetMain&o=7&rm=3">Upload File</a></li>
 
-<li><a href="DO_ViewFiles.jsp">View Files</a></li>
+<li><a href="https://tse1.mm.bing.net/th/id/OIP.o0OAkVRATjDWECHKXbD_qAHaDi?w=1883&h=900&rs=1&pid=ImgDetMain&o=7&rm=3">View Files</a></li>
 
-<li><a href="DO VerifyFiles.jsp">Verify data(Verifiability)</a></li>
+<li><a href="https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/b0864796679957.5eb3c51a4b908.png">Verify data(Verifiability)</a></li>
 
 <li><a href="DO_Delete.jsp">View and Delete Files</a></li>
 
-<li><a href="DO_Transactions.jsp">View All Transactions</a></li>
+<li><a href="https://helpx.adobe.com/content/dam/help/en/creative-cloud/help/delete-files-permanently-from-cloud-storage/acrobat-delete-file-copy.png.img.png">View All Transactions</a></li>
 
-<li><a href="DO_Login.jsp">Logout</a></li>
+<li><a href="https://idcloudhost.com/wp-content/uploads/2019/07/Logout-scaled.jpg">Logout</a></li>
 
 </ul>
 
