@@ -8,7 +8,7 @@
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
-<link href="css/style.css" rel="stylesheet" type="text/css" />
+<link href="[css/style.css]" rel="stylesheet" type="text/css" />
 
 <link rel="stylesheet" type="text/css" href="css/coin-slider.css" />
 
@@ -58,7 +58,7 @@ font-weight: bold;
 
 <ul>
 
-<li class="active"><a href="DO_Main.jsp"><span>DATA OWNER</span></a></li>
+<li class="active"><a href="https://th.bing.com/th/id/OIP.RJCImwMq7ynpf_dECSWlDQHaE7?w=273&h=182&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3"><span>DATA OWNER</span></a></li>
 
 <li class="active"><a href="DO_Login.jsp">Logout</a></li>
 
@@ -72,9 +72,13 @@ font-weight: bold;
 
 <div id="coin-slider">
 
-<a href="#"><img src="images/slide1.jpg" width="960" height="360" alt="" /></a> <a href="#"><img src="images/slide2.jpg" width="960" height="360" alt="" /></a>
+<a href="#"><img src="images/slide1.jpg" width="960" height="360" alt="" /></a> 
 
-<a href="#"><img src="images/slide3.jpg" width="960" height="360" alt="" /></a> </div>
+<a href="#"><img src="images/slide2.jpg" width="960" height="360" alt="" /></a>
+
+<a href="#"><img src="images/slide3.jpg" width="960" height="360" alt="" /></a>
+
+</div>
 
 <div class="clr"></div>
 
@@ -89,6 +93,7 @@ font-weight: bold;
 <div class="content">
 
 <div class="content_resize">
+        
 <div class="mainbar">
 
 <div class="article">
